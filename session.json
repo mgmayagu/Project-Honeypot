@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5eaf8517616a1e683fbc76af"},"protocol":"pcap","hpfeed_id":{"$oid":"5eaf8517616a1e683fbc76ae"},"timestamp":{"$date":"2020-05-04T02:59:35.344Z"},"source_ip":"185.175.93.24","source_port":53876,"destination_port":5920,"identifier":"3064172c-8db3-11ea-a928-42010a800002","honeypot":"dionaea"}
